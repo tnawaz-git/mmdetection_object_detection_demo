@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>ImageSets</folder>
+	<filename>652.png</filename>
+	<path>/mnt/data/talha/Finetuning/Table extraction/mmdetection_object_detection_demo/data/VOC2007/ImageSets/652.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3276</width>
+		<height>2548</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>data</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>222</ymin>
+			<xmax>1131</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>
